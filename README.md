@@ -1,0 +1,12 @@
+# jwkim101201
+### :technologist: Frameworks / Languages I can develop
+- little bit of Golang
+- Node.js
+- VanillaJS
+- Java
+- little bit of Kotlin
+- C#
+- TypeScript
+### :envelope: Contacts
+- Email: jwkim101201@gmail.com
+- Discord: 김껠쓰#0332
