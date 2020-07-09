@@ -1,5 +1,5 @@
 # jwkim101201
-### :technologist: Frameworks / Languages I can develop
+### :computer: Frameworks / Languages I can develop
 - little bit of Golang
 - Node.js
 - VanillaJS
