@@ -9,6 +9,8 @@
 - C#
 - TypeScript
 - Flutter
+- little bit of Rust
+
 ### :envelope: Contacts
 - Email: jwkim101201@gmail.com
 - Discord: 김껠쓰#0332
