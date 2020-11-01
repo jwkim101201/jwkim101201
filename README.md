@@ -11,7 +11,7 @@ module.exports = {
   
   skils: {
     learning: ['Golang'],
-    languages: ['Kotlin', 'Java', 'JavaScript', 'TypeScript, 'CSS', 'C#'],
+    languages: ['Kotlin', 'Java', 'JavaScript', 'TypeScript, 'CSS', 'C#']
   },
   
   etc: {
