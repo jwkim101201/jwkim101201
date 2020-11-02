@@ -10,8 +10,8 @@ module.exports = {
   },
   
   skils: {
-    learning: ['Golang'],
-    languages: ['Kotlin', 'Java', 'JavaScript', 'TypeScript, 'CSS', 'C#']
+    learning: [],
+    languages: ['Kotlin', 'Java', 'JavaScript', 'TypeScript, 'CSS', 'C#', 'Golang', 'Python']
   },
   
   etc: {
