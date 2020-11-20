@@ -6,7 +6,7 @@ module.exports = {
     name: 'kells',
     communication: 0,
     laziness: Number.MAX_VALUE,
-    age: 11
+    age: 11,
     mbti: 'INTP'
   },
   
