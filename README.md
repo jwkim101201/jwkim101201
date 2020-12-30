@@ -13,7 +13,16 @@ module.exports = {
   
   skils: {
     learning: [],
-    languages: ['Kotlin', 'Java', 'JavaScript', 'TypeScript, 'CSS', 'C#', 'Golang', 'Python']
+    languages: [
+      'Kotlin',
+      'Java',
+      'JavaScript',
+      'TypeScript,
+      'CSS',
+      'C#',
+      'Golang',
+      'Python'
+    ]
   },
   
   etc: {
@@ -23,5 +32,9 @@ module.exports = {
   social: {
     discord: '김껠쓰#1234',
   }
+  
+  teams: [
+    'Team End'
+  ]
 }
 ```
