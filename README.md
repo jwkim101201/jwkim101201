@@ -31,7 +31,7 @@ module.exports = {
   
   social: {
     discord: '김껠쓰#1234',
-  }
+  },
   
   teams: [
     'Team End'
