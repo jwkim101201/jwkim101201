@@ -29,10 +29,6 @@ module.exports = {
     fun_fact: 'HTML is not a Programming Language.'
   },
   
-  social: {
-    discord: '김껠쓰#1234',
-  },
-  
   teams: [
     'Team End'
   ]
