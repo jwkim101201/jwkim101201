@@ -21,7 +21,8 @@ module.exports = {
       'CSS',
       'C#',
       'Golang',
-      'Python'
+      'Python',
+      'React'
     ]
   },
   
