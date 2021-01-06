@@ -22,6 +22,8 @@ module.exports = {
       'C#',
       'Golang',
       'Python',
+    ],
+    techs: [
       'React'
     ]
   },
