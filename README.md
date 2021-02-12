@@ -32,7 +32,8 @@ module.exports = {
   },
   
   teams: [
-    'Team End'
+    'Team End',
+    'Team Alpha'
   ]
 }
 ```
