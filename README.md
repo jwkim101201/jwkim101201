@@ -29,11 +29,6 @@ module.exports = {
   
   etc: {
     fun_fact: 'HTML is not a Programming Language.'
-  },
-  
-  teams: [
-    'Team End',
-    'Team Alpha'
-  ]
+  }
 }
 ```
