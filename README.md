@@ -16,7 +16,7 @@ module.exports = {
       'Kotlin',
       'Java',
       'JavaScript',
-      'TypeScript,
+      'TypeScript',
       'CSS',
       'C#',
       'Golang',
